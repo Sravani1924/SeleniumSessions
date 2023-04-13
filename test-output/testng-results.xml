@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T18:21:45 IST" name="Suite" finished-at="2023-04-02T18:25:07 IST" duration-ms="201516">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T18:21:45 IST" name="Test" finished-at="2023-04-02T18:25:07 IST" duration-ms="201516">
+      <class name="ExtentReports.test1">
+        <test-method signature="goToGoogleValidation()[pri:0, instance:ExtentReports.test1@2631f68c]" started-at="2023-04-02T18:21:45 IST" name="goToGoogleValidation" finished-at="2023-04-02T18:22:07 IST" duration-ms="21759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToGoogleValidation -->
+      </class> <!-- ExtentReports.test1 -->
+      <class name="ExtentReports.test2">
+        <test-method signature="searchGoogleValidation()[pri:0, instance:ExtentReports.test2@7dda48d9]" started-at="2023-04-02T18:21:45 IST" name="searchGoogleValidation" finished-at="2023-04-02T18:24:12 IST" duration-ms="146866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogleValidation -->
+      </class> <!-- ExtentReports.test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
